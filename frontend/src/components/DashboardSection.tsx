@@ -920,7 +920,7 @@ export const DashboardSection: React.FC = () => {
               <ExternalLink className="w-3.5 h-3.5" />
             </a>
             <a
-              href="https://fire-detection-gabr.streamlit.app/"
+              href="https://terraflare-ya3bcyu7advdfv3vwrdqzs.streamlit.app/"
               target="_blank"
               rel="noreferrer"
               className="flex-1 sm:flex-initial px-4 py-2 rounded-xl bg-white/[0.05] border border-white/10 text-gray-300 hover:text-white hover:bg-white/[0.08] font-semibold text-xs transition-all flex items-center justify-center gap-1.5 cursor-pointer"

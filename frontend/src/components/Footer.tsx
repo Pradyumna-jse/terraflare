@@ -20,7 +20,7 @@ export const Footer: React.FC = () => {
 
         <div className="flex flex-wrap items-center justify-center gap-6 text-xs">
           <a
-            href="https://fire-detection-gabr.streamlit.app/"
+            href="https://terraflare-ya3bcyu7advdfv3vwrdqzs.streamlit.app/"
             target="_blank"
             rel="noreferrer"
             className="hover:text-primary transition-colors flex items-center gap-1"

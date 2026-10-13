@@ -7,3 +7,14 @@ imageio
 imageio-ffmpeg
 streamlit-webrtc
 av
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+folium
+streamlit-folium
+python-dotenv
+pyyaml
+requests
