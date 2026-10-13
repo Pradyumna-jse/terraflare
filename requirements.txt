@@ -15,6 +15,7 @@ torch
 torchvision
 folium
 streamlit-folium
+streamlit-geolocation
 python-dotenv
 pyyaml
 requests
